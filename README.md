@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🎓 BSc IT graduate passionate about technology and development
+
+💻 Currently contributing to open-source projects on GitHub
+
+🌐 Learning modern web technologies, tools, and frameworks
+
+🔍 Actively seeking and applying for entry-level web development roles
+
+🚀 Focused on building real-world skills through hands-on projects
+
+💬 Open to collaboration, mentorship, and tech discussions
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YASHSAWANT31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
