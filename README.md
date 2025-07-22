@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 BSc IT graduate passionate about technology and development
-💻 Currently contributing to open-source projects on GitHub
-🌐 Learning modern web technologies, tools, and frameworks
-🔍 Actively applying for entry-level web development/ Tech roles
-🚀 Focused on building real-world skills through hands-on projects
+🎓 BSc IT graduate passionate about technology and development 
+💻 Currently contributing to open-source projects on GitHub 
+🌐 Learning modern web technologies, tools, and frameworks  
+🔍 Actively applying for entry-level web development/ Tech roles 
+🚀 Focused on building real-world skills through hands-on projects 
 💬 Open to collaboration, mentorship, and tech discussions
 
 ## 🏆 GitHub Trophies
